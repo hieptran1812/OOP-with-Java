@@ -8,4 +8,17 @@ Files được phân loại dưới dạng text hoặc binary. Một file có th
 
 Java cung cấp các class để thực hiện file input và output. Ta có thể phân loại thành: *text I/O classes* và *binary I/O classes*.
 
-## Mục lục
+## Kiến thức
+
+Qua phần này bạn sẽ tìm hiểu được:
+
+1. Nhập xuất được xử lý như nào trong Java.
+2. Phân biệt text I/O và binary I/O.
+3. Đọc và ghi byte sử dụng **FileInputStream* và **FileOutputStream**.
+4. Lọc dữ liệu sử dụng base classes **FilterInputStream** và **FilterOutputStream**.
+5. Cải thiện hiệu suất I/O sử dụng **BufferedInputStream** và **BufferedOutputStream**.
+6. Cách viết một chương trình copy một file.
+7. Lưu trữ và khôi phục object sử dụng **ObjectOutputStream** và **ObjectInputStream**.
+8. Cài đặt **Serializable** interface để làm cho object được tuần tự hóa (serializable).
+9. Tuần tự hóa các mảng (serialize arrays).
+10. Đọc và ghi file sử dụng **RandomAccessFile** class.
