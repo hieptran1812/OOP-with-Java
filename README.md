@@ -128,6 +128,47 @@
 10. The String Class 
 11. The StringBuilder and StringBuffer Classes
 
-	
-	
+### Inheritance and Polymorphism
+1. Introduction
+2. Superclasses and Subclasses 
+3. Using the super Keyword 
+4. Overriding Methods 
+5. Overriding vs. Overloading 
+6. The Object Class and Its toString() Method 
+7. Polymorphism 
+8. Dynamic Binding 
+9. Casting Objects and the instanceof Operator 
+10. The Object’s equals Method 
+11. The ArrayList Class 
+12. Useful Methods for Lists 
+13. Case Study: A Custom Stack Class 
+14. The protected Data and Methods 
+15. Preventing Extending and Overriding
+
+### Exception handling and text I/o
+1. Introduction 
+2. Exception-Handling Overview 
+3. Exception Types 
+4. More on Exception Handling 
+5. The finally Clause 
+6. When to Use Exceptions 
+7. Rethrowing Exceptions 
+8. Chained Exceptions 
+9. Defining Custom Exception Classes 
+10. The File Class 
+11. File Input and Output 
+12. Reading Data from the Web 
+13. Case Study: Web Crawler 
+
+### Abstract classes and Interfaces
+1. Introduction 
+2. Abstract Classes
+3. Case Study: the Abstract Number Class 
+4. Case Study: Calendar and GregorianCalendar 
+5. Interfaces 
+6. The Comparable Interface 
+7. The Cloneable Interface 
+8. Interfaces vs. Abstract Classes 
+9. Case Study: The Rational Class 
+10. Class-Design Guidelines 
 	
