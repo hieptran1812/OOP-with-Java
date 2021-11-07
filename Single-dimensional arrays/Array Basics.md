@@ -183,12 +183,12 @@ an array. This is called shuffling. To accomplish this, for each element myList[
 randomly generate an index j and swap myList[i] with myList[j], as follows:
 ```java
 for (int i = 0; i < myList.length – 1; i++) {
-// Generate an index j randomly
-int j = (int)(Math.random() * myList.length);
-// Swap myList[i] with myList[j]
-double temp = myList[i];
-myList[i] = myList[j];
-myList[j] = temp;
+  // Generate an index j randomly
+  int j = (int)(Math.random() * myList.length);
+  // Swap myList[i] with myList[j]
+  double temp = myList[i];
+  myList[i] = myList[j];
+  myList[j] = temp;
 }
 ```
 
