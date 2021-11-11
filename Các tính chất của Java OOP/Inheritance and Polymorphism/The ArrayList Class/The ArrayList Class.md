@@ -61,7 +61,7 @@ public class test {
          // Contains [London, Denver, Xian, Paris, Seoul, Tokyo]
 
          // Remove a city at index
-         cityList.remove("Miami");
+         cityList.remove(1);
          // Contains [London, Xian, Paris, Seoul, Tokyo]
 
          // Display the contents in the list
