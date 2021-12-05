@@ -19,7 +19,7 @@ Một số trường hợp ngoại lệ này là do lỗi người dùng, một 
 Để trình bày cách xử lý exception, bao gồm việc exception object được tạo và ném ra như nào, hãy bắt đầu với ví dụ dưới đây, chương trình sẽ thực hiện in ra thương của 2 số nguyên:
 
 ```java
-import java.ulti.Scanner;
+import java.util.Scanner;
 
 public class Quotient{
   public class void main(String[] args){
